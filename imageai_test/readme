@@ -1,1 +1,16 @@
-This is a project a learnt using ImageAi and machine learning to detect the animal on the image
+This is a project I learnt using ImageAi and machine learning to detect the animal on the image
+
+The data to learn is from MobileNetV2
+
+For example, godzilla.jpg from the folder is used for the program
+Then, the program will compare it to the data it train and predict the result
+
+common iguana  :  46.9829
+American alligator  :  31.8662
+triceratops  :  10.0065
+frilled lizard  :  6.1982
+African crocodile  :  0.3426
+
+
+The  result shows that the program predict it is 47% a common iguana which is wrong. 
+But it was a fun project to get into the world of machine learning.
